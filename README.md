@@ -12,6 +12,10 @@
 
 - Paul Graham, http://paulgraham.com/identity.html
 
+> You're under no obligation to be the same person you were 5 minutes ago.
+
+- Alan Watts
+
 > One who wishes to believe says, "Does the evidence permit me to believe?"
 > One who wishes to disbelieve asks, "Does the evidence force me to believe?"
 > Beware lest you place huge burdens of proof only on propositions you
