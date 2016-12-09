@@ -56,6 +56,10 @@
 
 - Brian Moschel, [Organizing A jQuery Application](https://www.bitovi.com/blog/organizing-a-jquery-application)
 
+> Treat servers like cattle, not pets.
+
+- Noah Slater, https://blog.engineyard.com/2014/pets-vs-cattle
+
 > Shipping is a feature. A really important feature.
 > Your product must have it.
 
