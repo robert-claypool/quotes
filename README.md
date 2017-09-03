@@ -64,3 +64,7 @@
 > Your product must have it.
 
 - Joel Spolsky, [The Duct Tape Programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
+
+> Opinionated software is only cool if you have cool opinions.
+
+- Tom MacWright, [Soapbox: Longitude, Latitude is the Right Way](https://macwright.org/2016/07/15/longitude-latitude-is-the-right-way.html)
