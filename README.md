@@ -28,10 +28,10 @@
 
 - Eliezer Yudkowsky, http://www.yudkowsky.net/rational/virtues/
 
-> If the sky is blue
->     I desire to believe that the sky is blue.
-> If the sky is not blue
->     I desire to believe that the sky is not blue.
+> If the sky is blue, <br>
+> &nbsp; &nbsp; I desire to believe that the sky is blue. <br>
+> If the sky is not blue, <br>
+> &nbsp; &nbsp; I desire to believe that the sky is not blue. <br>
 > Let me not become attached to beliefs I may not want.
 
 - A Litany of Tarski
