@@ -4,17 +4,22 @@
 > best thing you can offer him or her is your presence.
 > How can you love if you are not there?'
 
-- Thich Nhat Hanh, https://youtu.be/UEUxFNkISnU
+— Thich Nhat Hanh, https://youtu.be/UEUxFNkISnU
+
+> We all make a living by what we get, but we make life by what we give...
+> by what we give.
+
+— Benjamin Clementine
 
 ### Philosophy
 
 > Keep your identity small.
 
-- Paul Graham, http://paulgraham.com/identity.html
+— Paul Graham, http://paulgraham.com/identity.html
 
 > You're under no obligation to be the same person you were 5 minutes ago.
 
-- Alan Watts
+— Alan Watts
 
 > One who wishes to believe says, "Does the evidence permit me to believe?"
 > One who wishes to disbelieve asks, "Does the evidence force me to believe?"
@@ -26,7 +31,7 @@
 > hard you inspect for flaws, then every flaw you learn how to detect makes
 > you that much stupider.
 
-- Eliezer Yudkowsky, http://www.yudkowsky.net/rational/virtues/
+— Eliezer Yudkowsky, http://www.yudkowsky.net/rational/virtues/
 
 > If the sky is blue, <br>
 > &nbsp; &nbsp; I desire to believe that the sky is blue. <br>
@@ -34,40 +39,40 @@
 > &nbsp; &nbsp; I desire to believe that the sky is not blue. <br>
 > Let me not become attached to beliefs I may not want.
 
-- A Litany of Tarski
+— A Litany of Tarski
 
 > Do not assume that categories interesting-to-humans are the ontological
 > primitives of reality. An octopus has nine brains.
 
-- Me!, https://twitter.com/RobertClaypool/status/713208901655793664
+— Me!, https://twitter.com/RobertClaypool/status/713208901655793664
 
 > The truth will set you free, but first it will upset you.
 
-- Who knows?
+— Who knows?
 
 ### Systems
 
 > You cannot get a simple system by adding simplicity to a complex system.
 
-- http://erlang.org/pipermail/erlang-questions/2012-March/065087.html
+— http://erlang.org/pipermail/erlang-questions/2012-March/065087.html
 
 > The secret to building large apps is never build large apps.
 > Break your applications into small pieces.
 
-- Brian Moschel, [Organizing A jQuery Application](https://www.bitovi.com/blog/organizing-a-jquery-application)
+— Brian Moschel, [Organizing A jQuery Application](https://www.bitovi.com/blog/organizing-a-jquery-application)
 
 > Treat servers like cattle, not pets.
 
-- Noah Slater, https://blog.engineyard.com/2014/pets-vs-cattle
+— Noah Slater, https://blog.engineyard.com/2014/pets-vs-cattle
 
 > Shipping is a feature. A really important feature.
 > Your product must have it.
 
-- Joel Spolsky, [The Duct Tape Programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
+— Joel Spolsky, [The Duct Tape Programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
 > Opinionated software is only cool if you have cool opinions.
 
-- Tom MacWright, [Soapbox: Longitude, Latitude is the Right Way](https://macwright.org/2016/07/15/longitude-latitude-is-the-right-way.html)
+— Tom MacWright, [Soapbox: Longitude, Latitude is the Right Way](https://macwright.org/2016/07/15/longitude-latitude-is-the-right-way.html)
 
 ### History
 
@@ -114,5 +119,5 @@
   even to God. The system itself could not have intended this in the
   beginning, but in order to sustain itself it was compelled to go all the way.
 
-- Milton Mayer, [They Thought There Were Free](https://www.press.uchicago.edu/Misc/Chicago/511928.html), The Germans, 1933-45
+— Milton Mayer, [They Thought There Were Free](https://www.press.uchicago.edu/Misc/Chicago/511928.html), The Germans, 1933-45
 
